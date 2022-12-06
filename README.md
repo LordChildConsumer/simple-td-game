@@ -1,6 +1,6 @@
 # simple-td-game
 
-[![godotengine](powered-by-godot.svg)](https://godotengine.org)
+[![godotengine](powered-by-godot.svg)](https://www.godotengine.org)
 
 
 ### Assets Used
